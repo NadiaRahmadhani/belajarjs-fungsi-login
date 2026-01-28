@@ -1,0 +1,23 @@
+{
+  "name": "belajarjs-login",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Express login demo (message only)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "login",
+    "demo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.22.1",
+    "express-session": "^1.19.0",
+    "mysql2": "^3.16.2"
+  },
+  "type": "commonjs"
+}
