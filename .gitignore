@@ -1,11 +1,8 @@
 # Node.js dependencies
 node_modules/
 
-# Package manager lock files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
+# Environment variables
+.env
 
-
-# Session store (jika menggunakan file-based session)
+# Session store (jika pakai file-based session)
 sessions/
